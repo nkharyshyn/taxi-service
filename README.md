@@ -40,3 +40,5 @@ My project has N-tier architecture:
   by setting your own properties for fields: `URL`, `USERNAME`, `PASSWORD`, `JDBC_DRIVER`;
 * `Edit configurations...` for Tomcat;
 * run the project.
+<br></br>
+![taxi3](https://github.com/nkharyshyn/images/blob/main/%D0%91%D0%B5%D0%B7%20%D1%96%D0%BC%D0%B5%D0%BD%D1%96.png)
