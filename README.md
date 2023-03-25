@@ -1,6 +1,6 @@
-![taxi1](https://github.com/nkharyshyn/images/blob/main/%D0%91%D0%B5%D0%B7%20%D1%96%D0%BC%D0%B5%D0%BD%D1%96.png)
+![Без імені](https://user-images.githubusercontent.com/116820316/227710619-fd5bbecc-57fe-431e-8585-235f33564569.png)
 # _🚕TAXI SERVICE🚕_
-![taxi2](https://github.com/nkharyshyn/images/blob/main/%D0%91%D0%B5%D0%B7%20%D1%96%D0%BC%D0%B5%D0%BD%D1%96%20232.png)
+![Без імені 232](https://user-images.githubusercontent.com/116820316/227710680-96fc0cc1-0a01-442f-9994-86e3d356295c.png)
 <br></br>
 # _✍️Project description_
 This is a simple taxi service web application that supports registration, authentication and have basic CRUD operations. <br></br>
@@ -41,4 +41,4 @@ My project has N-tier architecture:
 * `Edit configurations...` for Tomcat;
 * run the project.
 <br></br>
-![taxi3](https://github.com/nkharyshyn/images/blob/main/%D0%91%D0%B5%D0%B7%20%D1%96%D0%BC%D0%B5%D0%BD%D1%96.png)
+![Без імені](https://user-images.githubusercontent.com/116820316/227710695-0537c9d5-1054-4eb2-a41b-1e8404730276.png)
